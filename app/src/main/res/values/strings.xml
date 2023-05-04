@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WorkManagerSample</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="one_time_work_request">One-Time WorkRequest</string>
+    <string name="periodic_work_request">Periodic WorkRequest</string>
+    <string name="select_work_type">Görev Tipinizi Seçin</string>
+    <string name="create_work">Work Request Oluşturun</string>
+    <string name="start_work">Görevi Başlat</string>
+    <string name="stop_work">WorkManageri Durdur</string>
+    <string name="something_went_wrong">Hata oluştu.</string>
+</resources>
